@@ -17,7 +17,10 @@
 <div style="width: 80px;height: 30px;border: 3px solid black;text-align: center;margin-top:30px;margin-left: 20px;display: inline-block;"> 1</div>
 <div style="width: 80px;height: 30px;border: 3px solid black;text-align: center;margin-top:30px;margin-left: 20px;display: inline-block;"> 12<div>
 
-  
+  <button type="submit" class="submitbtn">Submit</button>
+    
+    
+    </form>
 
 
 
